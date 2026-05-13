@@ -1,6 +1,5 @@
 # vertical-farm-anomaly-detection
-This repository contains:
-- Synthetic hydroponic sensor dataset
+Public repository containing hydroponic sensor dataset for FIT5145 assignment.
 
 Dataset characteristics:
 - 21-day hydroponic growing cycle
